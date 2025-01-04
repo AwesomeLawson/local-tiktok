@@ -16,7 +16,6 @@ This application automates the process of downloading TikTok videos and thumbnai
 ---
 
 ## **Getting Started**
-- ** Get your TikTok library
   - Open TikTok in the browser on a computer.
   - Open your profile and choose the tab where you have your saved content like Favorites or Liked.
   - Scroll all the way to the bottom of the page to load all the videos. TikTok uses something called lazy loading so you need to scroll down all the way to force it to load your whole library.
