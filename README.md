@@ -11,11 +11,12 @@ This project is a Node.js application designed to make an offline copy of your l
 
 ## **Description**
 
-This application automates the process of downloading TikTok videos and thumbnails by parsing a provided HTML file. It extracts video metadata such as URLs, usernames, video IDs, and  descriptions, and then downloads the media files for offline viewing. Additionally, it includes a simple local web page for browsing the downloaded video library. The heavy lifting for this application is made possible by RapidAPI Hub that downloads TikTok videos. You'll need to sign up for a license. The free tier allows 150 downloads per month. If you have more than that, like I did, you'll need to pay $5 for a month's access to hundreds of thousanads of downloads. Here's the page where I started my account with them and signed up https://rapidapi.com/elisbushaj2/api/tiktok-video-downloader-api
+This application automates the process of downloading TikTok videos and thumbnails by parsing a provided HTML file. It extracts video metadata such as URLs, usernames, video IDs, and  descriptions, and then downloads the media files for offline viewing. Additionally, it includes a simple local web page for browsing the downloaded video library. The heavy lifting for this application is made possible by RapidAPI Hub that downloads TikTok videos. You'll need to sign up for a license. The free tier allows 150 downloads per month. If you have more than that, like I did, you'll need to pay $5 for a month's access to hundreds of thousanads of downloads. Here's the page where I started my account with them and signed up https://rapidapi.com/elisbushaj2/api/tiktok-video-downloader-api.
 
 ---
 
 ## **Getting Started**
+### **Save your TikTok video library as HTML**
   - Open TikTok in the browser on a computer.
   - Open your profile and choose the tab where you have your saved content like Favorites or Liked.
   - Scroll all the way to the bottom of the page to load all the videos. TikTok uses something called lazy loading so you need to scroll down all the way to force it to load your whole library.
@@ -28,6 +29,10 @@ This application automates the process of downloading TikTok videos and thumbnai
   - Open Notepad or any text editor and paste these HTML contents for use later.
   - Back in your browser close developer tools by using the "x" in the upper right or pressing F12 again.
   - Pat yourself on the back because it all gets easier from here.
+
+### **Sign up for a RapidAPI Hub TikTok API Key**
+  - Follow the instructions here: https://rapidapi.com/elisbushaj2/api/tiktok-video-downloader-api
+  - When you see the API key in the test application copy it to Notepad or a text editor and save it for later.
 
 ### **Dependencies**
 
@@ -78,6 +83,9 @@ npm install
 
 ### **Loading your TikTok library into the application**
 Copy and paste the HTML from the Getting Started step into the file called tiktok-favorites.html.
+
+### **Use your API Key**
+Open download-videos.js and look for PUT YOUR API KEY HERE and replace that with the mix of letters and numbers from RapidAPI Hub.
 
 ### **Running the Applicaiton Script**
 
