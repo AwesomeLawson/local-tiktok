@@ -1,4 +1,4 @@
-# **TikTok Video Metadata Processing**
+# **Download Your TikTok Videos/View Offline**
 
 This project is a Node.js application designed to make an offline copy of your liked/favorited TikTok videos. It includes a sequence of scripts that:
 
