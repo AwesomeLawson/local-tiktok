@@ -13,7 +13,7 @@ This project is a Node.js application designed to make an offline copy of your l
 
 This application automates the process of downloading TikTok videos and thumbnails by parsing a provided HTML file. It extracts video metadata such as URLs, usernames, video IDs, and  descriptions, and then downloads the media files for offline viewing. Additionally, it includes a simple local web page for browsing the downloaded video library. The heavy lifting for this application is made possible by RapidAPI Hub that downloads TikTok videos. You'll need to sign up for a license. The free tier allows 150 downloads per month. If you have more than that, like I did, you'll need to pay $5 for a month's access to hundreds of thousanads of downloads. Here's the page where I started my account with them and signed up https://rapidapi.com/elisbushaj2/api/tiktok-video-downloader-api.
 
-If you want to send a thanks or support you can always buy me a coffee: https://buymeacoffee.com/mattlawson
+###If you want to send a thanks or support you can always buy me a coffee: https://buymeacoffee.com/mattlawson###
 ---
 
 ## **Getting Started**
