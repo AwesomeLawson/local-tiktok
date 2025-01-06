@@ -30,6 +30,8 @@ This application automates the process of downloading TikTok videos and thumbnai
   - Back in your browser close developer tools by using the "x" in the upper right or pressing F12 again.
   - Pat yourself on the back because it all gets easier from here.
 
+If you want to send a thanks or support you can always buy me a coffee: https://buymeacoffee.com/mattlawson
+
 ### **Sign up for a RapidAPI Hub TikTok API Key**
   - Follow the instructions here: https://rapidapi.com/elisbushaj2/api/tiktok-video-downloader-api
   - When you see the API key in the test application copy it to Notepad or a text editor and save it for later.
